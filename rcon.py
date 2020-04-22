@@ -8,6 +8,7 @@ PORT = ""
 WritePath = "/tmp/amp_sessionid"
 
 # API-EndPoints
+# You can change this if your not making calls to localhost.
 Login = "http://localhost:%port%/API/Core/Login"
 SendMessage = "http://localhost:%port%/API/Core/SendConsoleMessage"
 
