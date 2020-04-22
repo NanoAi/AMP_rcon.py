@@ -1,6 +1,11 @@
 #!/usr/bin/python3
 import json, sys, requests, getpass
 
+# This script is made by NanoAi from Mirai.Red
+# With motevation, and support from Xoren.io
+# ----
+# If you decide to use/modify any of my work please give us some credit! <3
+
 # Set this variable to your port number if you don't want to define the port all the time!
 PORT = ""
 # Set this variable to define the file your SessionID will be written to.
